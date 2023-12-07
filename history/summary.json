@@ -4,19 +4,19 @@
     "url": "http://zhl.nat100.top/buyer/hits",
     "icon": "https://icons.duckduckgo.com/ip3/zhl.nat100.top.ico",
     "slug": "buyer",
-    "status": "degraded",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1952,
-    "timeDay": 1952,
-    "timeWeek": 1952,
-    "timeMonth": 1952,
-    "timeYear": 1952,
+    "status": "up",
+    "uptime": "77.18%",
+    "uptimeDay": "77.18%",
+    "uptimeWeek": "77.18%",
+    "uptimeMonth": "77.18%",
+    "uptimeYear": "77.18%",
+    "time": 1614,
+    "timeDay": 1614,
+    "timeWeek": 1614,
+    "timeMonth": 1614,
+    "timeYear": 1614,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 8
     }
   }
 ]
