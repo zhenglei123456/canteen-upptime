@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhl.nat100.top.ico",
     "slug": "buyer",
     "status": "up",
-    "uptime": "90.32%",
-    "uptimeDay": "90.32%",
-    "uptimeWeek": "90.32%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "90.32%",
-    "time": 1620,
-    "timeDay": 1620,
-    "timeWeek": 1620,
-    "timeMonth": 1620,
-    "timeYear": 1620,
+    "uptime": "80.10%",
+    "uptimeDay": "80.10%",
+    "uptimeWeek": "80.10%",
+    "uptimeMonth": "80.10%",
+    "uptimeYear": "80.10%",
+    "time": 1659,
+    "timeDay": 1659,
+    "timeWeek": 1659,
+    "timeMonth": 1659,
+    "timeYear": 1659,
     "dailyMinutesDown": {
-      "2023-12-07": 6
+      "2023-12-07": 14
     }
   }
 ]
